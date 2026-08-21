@@ -34,6 +34,12 @@ A continuación, algunos ejemplos visualizados del sitio.
 
 Exponiendo estas opiniones cualitativas en principio son agrupadas finalmente en datos cuantitativos, transformándose en información más fácil de digerir con el uso de gráficos. El foco central es contrastar la presión social que ejercen los "influencers" en plataformas sociales, con respecto a la evidencia y el consenso médico-científico respecto a los métodos para ayudar a los bebés a dormir de forma independiente, con la investigación detrás de las fuentes usadas, la cantidad de investigaciones al respecto e incluyendo una investigación respecto a comparaciones entre niños criados con y sin esta práctica.
 
+<div align="center">
+  <img src="imagen3-datos_de_posicionamiento_reedit.png" alt="Datos cuantificados sobre el debate de entrenamiento del sueño" width="85%">
+  <br>
+  <em>Figura 3: Posicionamiento de datos cuantificados sobre el debate en Reddit.</em>
+</div>
+<br>
 
 ## 2. Interés narrativo, estructura y una duda genuina
 
@@ -43,13 +49,6 @@ Me resultó cautivador observar cómo la historia aborda una práctica que, en c
 
 Desde la perspectiva de la estructura narrativa y la interacción con el usuario, destaco cómo el autor utiliza el *scrollytelling* para construir empatía. La historia fluye guiando al lector desde un punto de vista micro (la frustración de un padre intentando dormir a su hijo frente a un video de TikTok) hacia una perspectiva macro (el análisis de cientos de comentarios y estudios). Esta transición mantiene al usuario involucrado, haciendo que los datos no se sientan como cifras frías, sino como partes esenciales de una historia humana. El equilibrio entre el texto, que es conciso y directo, y las imágenes dinámicas, invita a seguir haciendo scroll sin generar fatiga visual.
 
-<div align="center">
-  <!-- Reemplaza "captura-2.jpg" con el nombre exacto de tu archivo en la carpeta -->
-  <img src="captura-2.jpg" alt="Transición narrativa de lo micro a lo macro" width="85%">
-  <br>
-  <em>Figura 2: Ejemplo de la transición narrativa mediante scrollytelling.</em>
-</div>
-<br>
 
 ## 3. Efectividad visual, calidad de los datos y la desmitificación
 
@@ -60,8 +59,8 @@ Sin embargo, lo más destacable e innovador que encontré en este reportaje —y
 La visualización de esta desmitificación es clave: desarma la desinformación de un vistazo. Al final, y esto queda plasmado de manera muy coherente en la narrativa, la conclusión es que el entrenamiento del sueño queda a elección particular de la familia. La historia sugiere, de forma sutil pero respaldada por la evidencia, que la resistencia actual a esta práctica podría ser parte de un cambio cultural más amplio que se está gestando, muy similar a la controversia que ocurrió en su momento histórico con la adopción de la leche de fórmula.
 
 <div align="center">
-  <!-- Reemplaza "captura-3.jpg" con el nombre exacto de tu archivo en la carpeta -->
-  <img src="captura-3.jpg" alt="Gráfico de fuentes descontextualizadas" width="85%">
+  <img src="imagen4-metologia.jpeg" alt="Respaldo de la metodología aplicada en la web story" width="85%">
   <br>
-  <em>Figura 3: Análisis visual de las fuentes y autores utilizados en la oposición al método.</em>
+  <em>Figura 4: Respaldo de la metodología aplicada para la recolección y análisis de datos en la investigación.</em>
 </div>
+<br>
