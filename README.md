@@ -10,17 +10,26 @@
 
 > "El entrenamiento del sueño infantil se ha convertido en uno de los debates más polarizados en la crianza moderna, una discusión digital que oscila entre la desesperación y la culpa."
 
-El reportaje explora a dos bandos, aquellos quienes apoyan esta práctica y a los que la repudian. Esta práctica que pone en jaque un dilema ético y científico a los padres/cuidadores en la crianza contemporánea, el llamado: "Entrenamiento del sueño" en menores; La cual se basa en dejar que los bebés e infantes lloren en un entorno seguro hasta que se duerman, incluso pudiendo llorar hasta alrededor de una hora en sus inicios. Todo el proceso inicialmente dura entre tres y siete días.  Este fenómeno se ha visto masificado exponencialmente en el entorno digital.
-La historia no se limita a describir el problema que ya existe, sino que utiliza una gran variedad de datos masivos, conectando tanto opiniones, bibliografía y contenido audiovisual de forma enriquecedora a poder entender el debate, que opina la gente y realmente cuanto sustento cientifíco hay (o no) respecto a la rutina de sueño en menores. Utilizando imágenes, comentarios e información de Reedit e Instagram como a su vez videos de TikTok, es que se nos presenta los distintos matices y opiniones a esta problemática, apelando no solo a los números e información (que suman bastante) pero también apelan a la emocionalidad del lector, usando citas y videos.
-Exponiendo estas opiniones cualitativas en principio son agrupadas finalmente en datos cuantitativos, transformándose en información más fácil de digerir con el uso de gráficos. El foco central es contrastar la presión social que ejercen los "influencers" en plataformas sociales, con respecto a la evidencia y el consenso médico-científico respecto a los métodos para ayudar a los bebés a dormir de forma independiente, con la investigación detrás de las fuentes usadas, la cantidad de investigaciones al respecto e incluyendo una investigación respecto a comparaciones entre niños criados con y sin esta práctica.
-
 <div align="center">
-  <!-- Reemplaza "captura-1.jpg" con el nombre exacto de tu archivo en la carpeta -->
-  <img src="captura-1.jpg" alt="Captura del debate en redes sociales" width="85%">
+  <img src="imagen1-discusionredes.png" alt="Captura del debate en redes sociales" width="60%">
   <br>
-  <em>Figura 1: Representación visual del debate en plataformas digitales.</em>
+  <em>Figura 1: Representación visual del debate en plataformas digitales (Reedit).</em>
 </div>
 <br>
+
+El reportaje explora a dos bandos, aquellos quienes apoyan esta práctica y a los que la repudian. Esta práctica que pone en jaque un dilema ético y científico a los padres/cuidadores en la crianza contemporánea, el llamado: "Entrenamiento del sueño" en menores; La cual se basa en dejar que los bebés e infantes lloren en un entorno seguro hasta que se duerman, incluso pudiendo llorar hasta alrededor de una hora en sus inicios. Todo el proceso inicialmente dura entre tres y siete días. 
+
+Este fenómeno se ha visto masificado exponencialmente en el entorno digital.
+La historia no se limita a describir el problema que ya existe, sino que utiliza una gran variedad de datos masivos, conectando tanto opiniones, bibliografía y contenido audiovisual de forma enriquecedora a poder entender el debate, que opina la gente y realmente cuanto sustento científico hay (o no) respecto a la rutina de sueño en menores. Utilizando imágenes, comentarios e información de Reedit e Instagram como a su vez videos de TikTok, es que se nos presenta los distintos matices y opiniones a esta problemática, apelando no solo a los números e información (que suman bastante) pero también apelan a la emocionalidad del lector, usando citas y videos. 
+A continuación, algunos ejemplos visualizados del sitio.
+
+
+
+
+
+
+Exponiendo estas opiniones cualitativas en principio son agrupadas finalmente en datos cuantitativos, transformándose en información más fácil de digerir con el uso de gráficos. El foco central es contrastar la presión social que ejercen los "influencers" en plataformas sociales, con respecto a la evidencia y el consenso médico-científico respecto a los métodos para ayudar a los bebés a dormir de forma independiente, con la investigación detrás de las fuentes usadas, la cantidad de investigaciones al respecto e incluyendo una investigación respecto a comparaciones entre niños criados con y sin esta práctica.
+
 
 ## 2. Interés narrativo, estructura y una duda genuina
 
