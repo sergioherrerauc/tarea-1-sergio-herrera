@@ -23,10 +23,14 @@ Este fenómeno se ha visto masificado exponencialmente en el entorno digital.
 La historia no se limita a describir el problema que ya existe, sino que utiliza una gran variedad de datos masivos, conectando tanto opiniones, bibliografía y contenido audiovisual de forma enriquecedora a poder entender el debate, que opina la gente y realmente cuanto sustento científico hay (o no) respecto a la rutina de sueño en menores. Utilizando imágenes, comentarios e información de Reedit e Instagram como a su vez videos de TikTok, es que se nos presenta los distintos matices y opiniones a esta problemática, apelando no solo a los números e información (que suman bastante) pero también apelan a la emocionalidad del lector, usando citas y videos. 
 A continuación, algunos ejemplos visualizados del sitio.
 
-
-
-
-
+<div align="center">
+  <a href="https://www.instagram.com/reels/C43zSHGv6t8/" target="_blank">
+    <img src="imagen2-influencer_sleep_training.png" alt="Video de Chris Bumstead sobre el entrenamiento del sueño" width="85%">
+  </a>
+  <br>
+  <em>Figura 2: El influencer y fisicoculturista Chris Bumstead habla al respecto del entrenamiento de sueño (haz clic en la imagen para ver el video original).</em>
+</div>
+<br>
 
 Exponiendo estas opiniones cualitativas en principio son agrupadas finalmente en datos cuantitativos, transformándose en información más fácil de digerir con el uso de gráficos. El foco central es contrastar la presión social que ejercen los "influencers" en plataformas sociales, con respecto a la evidencia y el consenso médico-científico respecto a los métodos para ayudar a los bebés a dormir de forma independiente, con la investigación detrás de las fuentes usadas, la cantidad de investigaciones al respecto e incluyendo una investigación respecto a comparaciones entre niños criados con y sin esta práctica.
 
